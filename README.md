@@ -1,8 +1,6 @@
 # Welcome to your CDK TypeScript project
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+S3+CF+lambda deployed manually from local files
 
 ## Useful commands
 
